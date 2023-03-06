@@ -2,7 +2,7 @@
 # Membrii 
 - Hoalba Darius
 - Nechita Ionut
-- Tudoreanu Evelyn
+- Tudureanu Evelyne
 - Petreanu Cezar
 
 
